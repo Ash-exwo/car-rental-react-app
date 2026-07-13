@@ -58,9 +58,9 @@ const NavBar = () => {
                             </Link>
                         </li>
 
-                        <li className="nav-item mt-2 mt-lg-0">
+                        <li className="nav-item mt-lg-0">
                             <Link
-                                className="btn px-4 py-2 fw-semibold"
+                                className="btn fw-semibold"
                                 to="/viewcars"
                                 style={{color: "#333333",}}
                             >
